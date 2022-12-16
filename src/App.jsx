@@ -29,10 +29,6 @@ function AboutComponent() {
   )
 }
 
-// Interests
-// I love video games, tech, and being with my family. With a total of 4 cats at home,
-// there's never a dull moment. They enjoy coding along with me by walking on my keyboard.
-
 function InterestsComponent() {
   return (
     <div className='interests'>
